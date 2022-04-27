@@ -32,10 +32,10 @@ Techs that I've used at least once
 <img  src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img  src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
 
 <!-- front -->
-<img  src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white">  <img  src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">  <img  src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">   <img  src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img  src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">  <img  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">  <img  src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">   <img  src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
 
 <!-- cloud -->
-<img  src="https://img.shields.io/badge/google cloud-4285F4?style=flat-square&logo=google cloud&logoColor=white">
+<img  src="https://img.shields.io/badge/Google cloud-4285F4?style=flat-square&logo=google cloud&logoColor=white">
 
 
   
