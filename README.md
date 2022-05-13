@@ -1,5 +1,5 @@
 
-### Hi, I'm Jongwon👋
+### Hi, I'm Jongwon👋 
 
 <!--
 **jonnygim/jonnygim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,6 +41,4 @@ Techs that I've used at least once
   
 🌱 I’m currently learning ...
 
-<!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jonnygim&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnygim&layout=compact&theme=vue&hide_border=true" />
+
