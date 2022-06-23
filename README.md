@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 <img  src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon aws&logoColor=white"> 
 
 #### Data Engineering
-<img  src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=apache hadoop&logoColor=white"> <img  src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat&logo=apache spark&logoColor=white">
+<img  src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=apache hadoop&logoColor=white"> 
+<!-- <img  src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat&logo=apache spark&logoColor=white"> -->
 
 #### Front-end
 <img  src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> 
