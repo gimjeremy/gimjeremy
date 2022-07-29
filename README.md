@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ---
 
 #### Language
-<img  src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">  <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img  src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"> <img  src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img  src="https://img.shields.io/badge/Java-007396?style=flat&logo=Openjdk&logoColor=white">  <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img  src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"> <img  src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 
 
 #### Back-end
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!-- <img  src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat&logo=apache spark&logoColor=white"> -->
 
 #### Front-end
-<img  src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
 
 #### Mobile
 <img  src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">     
