@@ -40,3 +40,6 @@ Here are some ideas to get you started:
 <!-- <img  src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat&logo=apache spark&logoColor=white"> -->
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img  src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">    
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnygim)](https://github.com/jonnygim/github-readme-stats)
