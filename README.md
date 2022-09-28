@@ -40,6 +40,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnygim&layout=compact)](https://github.com/jonnygim/github-readme-stats)
 
 ### How to reach me 📫
- <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonnygim.dev@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+ <img src="https://img.shields.io/badge/Gmail-d14836?style=flat square&logo=Gmail&logoColor=white&link=mailto:jonnygim.dev@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
