@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Skills 🛠️
 
-<img  src="https://img.shields.io/badge/Java-007396?style=flat&logo=Openjdk&logoColor=white">  <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img  src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"> <img  src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+<img  src="https://img.shields.io/badge/Java-007396?style=flat&logo=Openjdk&logoColor=white">  <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img  src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"> <img  src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
 
 <img  src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat&logo=amazon aws&logoColor=white"> <img  src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat&logo=oracle&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img  src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">    
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img  src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnygim&layout=compact)](https://github.com/jonnygim/github-readme-stats)
  
