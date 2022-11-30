@@ -5,7 +5,7 @@
 ```
 Hi, I'm Jongwon👋  I'm back-end developer 🧑🏻‍💻
 
-🌱 I’m currently learning ✨Kotlin, Docker, Cloud, Back-end stack✨
+🌱 I’m currently learning ✨Back-end stack✨
 ```
 </br>
 
