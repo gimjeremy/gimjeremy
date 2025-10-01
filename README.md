@@ -8,10 +8,6 @@
 
 ## 👋 김종원 (Jongwon Gim)
 
-안녕하세요! 김종원입니다.  
-Java와 Spring Boot 기반의 시스템 개발 및 운영 경험을 보유한 백엔드 개발자입니다.  
-API 성능 개선과 장애 모니터링 고도화를 통해 **안정성과 효율성 향상**에 집중해왔습니다.  
-기술과 비즈니스 관점을 함께 고려하며, **협업과 지속적인 성장**에 가치를 두고 있습니다.
 
 ---
 
@@ -28,7 +24,7 @@ API 성능 개선과 장애 모니터링 고도화를 통해 **안정성과 효�
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-232F3E?style=flat&logo=azure&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
