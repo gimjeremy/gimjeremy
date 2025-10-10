@@ -35,7 +35,7 @@
 
 ---
 
-<a href="https://github.com/jeremyjkim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyjkim&layout=compact&theme=nord&hide_border=true" /></a> 
+<!-- <a href="https://github.com/jeremyjkim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyjkim&layout=compact&theme=nord&hide_border=true" /></a>  -->
 
 ### 📫 Contact
 
