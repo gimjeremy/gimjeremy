@@ -27,13 +27,15 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <!-- <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> -->
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/> -->
 </p>
 
 ---
+
+<a href="https://github.com/jeremyjkim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyjkim&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ### 📫 Contact
 
